@@ -1,0 +1,10 @@
+
+========================================
+Tipo: Switch
+Nombre: SW4
+IP: 10.3.0.1
+VLAN: 10,20,30
+Jerarquía: Acceso
+Servicios: Datos, VLAN
+Fecha Registro: 2025-04-22 20:14:35
+========================================

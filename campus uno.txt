@@ -1,0 +1,10 @@
+
+========================================
+Tipo: Switch multicapa
+Nombre: MC1
+IP: 10.1.0.1
+VLAN: 10,20,30
+Jerarquía: Distribución
+Servicios: Trunking, VLAN, Enrutamiento, Datos
+Fecha Registro: 2025-04-22 20:09:31
+========================================
